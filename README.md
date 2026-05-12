@@ -1,5 +1,3 @@
-Here's a short README for your GitHub repository:
-
 Job Candidate Matching System
 =====================================
 
@@ -21,14 +19,14 @@ Example Output
 -----------------
 
 The system outputs a list of candidates for each job description, sorted by their scores. For example:
-`
+
 JD-1 — Kakao (ML Engineer)
 ----------------------------------------
 Arjun Sharma      Score: 0.8500
 Sneha Patel       Score: 0.7500
 Vikram Singh      Score: 0.6500
 ...
-`
+
 Contributing
 ---------------
 
